@@ -1,6 +1,3 @@
-### `README.md`
-
-```md
 # S3Upload and S3Download for Unity
 
 This repository contains two Unity scripts, `S3Upload` and `S3Download`, which allow you to upload and download files from AWS S3 buckets directly within Unity. These scripts make it easy to integrate S3 functionality into your Unity project, allowing you to manage file transfers efficiently.
@@ -126,4 +123,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to fork this repository and contribute via pull requests. Any feedback and contributions to improve the functionality or expand the supported file types and features are welcome!
 
-```
